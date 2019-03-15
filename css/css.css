@@ -1,0 +1,67 @@
+html, body{
+	font-family: arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #773348;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	width: 300px;
+	border-radius: 160px;
+	border: 8px solid #4f0119;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.flower{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: darkblue;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #999595;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+/*<header>
+			<img src="images/profile.jpg" >
+			<h1>Flower website test</h1>	
+		</header>
